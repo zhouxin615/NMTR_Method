@@ -1,5 +1,4 @@
-**The sharing of compressed package password requires the consent of the corresponding author(dechun@bjut.edu.cn).  
-**Please send an email to the corresponding author (dechun@bjut.edu.cn) and copy it to email (zhouxin615@126.com).  
-**Please indicate your name and organization in the email, explain that you want to use this code to carry out your work, and promise to quote relevant papers later.  
-**Author Xin Zhou does not have the right to freely share the code, but will be responsible for sending the password to the researcher after obtaining the permission. 
-**If there is no reply within two days, you can send another email. Author Xin Zhou will help the applicant contact the corresponding author (dechun@bjut.edu.cn).
+**This compressed file is not password protected, and each example includes INP files, UMAT files, and BAT files. 
+**You can click on the BAT file to submit the job to ABAQUS. 
+**We hope that these resources will be helpful to interested readers, and we also hope that related works will be widely disseminated and cited.
+**Corresponding author email (dechun@bjut.edu.cn), First author email (zhouxin615@126.com).  
